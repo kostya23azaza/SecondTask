@@ -93,7 +93,7 @@ public class LessonTwo {
                 System.arraycopy(arrkar2, 1, arrkar2, 0, arrkar2.length - 1);
                 arrkar2[arrkar2.length - 1] = kek;
                 for (int i : arrkar2) System.out.print(i + " ");
-                System.out.println();
+                System.out.println(); // ..
             }
         }
     }
